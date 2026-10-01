@@ -472,10 +472,12 @@ Dua, D. and Graff, C. (2019). UCI Machine Learning Repository, University of Cal
 
 ## **Topics** 
 
-R Clustering K-Means PAM K-Medoids Hierarchical-Clustering Dendrogram PCA Data-Science MachineLearning UCI Banknote-Authentication Unsupervised-Learning 
+R Clustering, K-Means, PAM K-Medoids, Hierarchical-Clustering, Dendrogram, PCA, Data-Science, MachineLearning, Unsupervised-Learning 
 
 #### **Aghnik Paul** 
 Data Analyst & ML Consultant
+
+
 E-mail: aghnik.stat@gmail.com
 linkedin: https://linkedin.com/in/aghnikpaul
 Portfolio: https://aghnikpaul.page.gd
