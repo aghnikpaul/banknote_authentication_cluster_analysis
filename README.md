@@ -478,6 +478,6 @@ R Clustering, K-Means, PAM K-Medoids, Hierarchical-Clustering, Dendrogram, PCA, 
 Data Analyst & ML Consultant
 
 
-E-mail: aghnik.stat@gmail.com
-linkedin: https://linkedin.com/in/aghnikpaul
-Portfolio: https://aghnikpaul.page.gd
+- E-mail: aghnik.stat@gmail.com
+- linkedin: https://linkedin.com/in/aghnikpaul
+- Portfolio: https://aghnikpaul.page.gd
